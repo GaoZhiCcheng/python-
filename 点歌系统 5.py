@@ -55,8 +55,8 @@ def gequ(user):
         i = '结束'
         #用户输入结束 运行sys.exit
         print('欢迎再次使用！')
-        quit()
-        #sys.exit(0)#结束程序运行
+        #quit()
+        sys.exit(0)#结束程序运行
     #while  i == '结束':
         #print('欢迎再次使用！')
 

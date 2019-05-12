@@ -6,4 +6,5 @@ class XueSheng():
         print('你好我叫{}，我今年{}岁了，欢迎你来调用我'.format(self.name,self.age))
 def function():
     print('我和类同级，我是一个函数')
+#if __name__=='__main__':
 print('我也和类同级')
